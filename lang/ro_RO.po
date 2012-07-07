@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Monospace\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-21 13:36-0300\n"
+"PO-Revision-Date: \n"
+"X-Poedit-Language: Romanian\n"
+"X-Poedit-Country: Romania\n"
+"Language-Team: Web Geeks\n"
+"Last-Translator: Vinicius Massuchetto <viniciusmassuchetto@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../monospace/archive.php:10
+#: ../monospace/index.php:16
+msgid "Edit"
+msgstr "Editare"
+
+#: ../monospace/functions.php:13
+#: ../monospace/functions.php:14
+msgid "Posts Feed"
+msgstr "Posturi Feed"
+
+#: ../monospace/functions.php:15
+msgid "Comments Feed"
+msgstr "Comentarii Feed"
+
+#: ../monospace/functions.php:22
+msgid "Sidebar"
+msgstr "Bara laterală"
+
+#: ../monospace/functions.php:28
+msgid "Footer"
+msgstr "Subsol"
+
+#: ../monospace/functions.php:45
+msgid "Written by"
+msgstr "Scris de"
+
+#: ../monospace/functions.php:45
+msgid "on"
+msgstr "pe"
+
+#: ../monospace/functions.php:47
+msgid "Categories"
+msgstr "Categorii"
+
+#: ../monospace/functions.php:48
+msgid "Tags: "
+msgstr "Tag-uri: "
+
+#: ../monospace/functions.php:59
+msgid "Category"
+msgstr "Categoria"
+
+#: ../monospace/functions.php:61
+msgid "Tag"
+msgstr "Tag-ul"
+
+#: ../monospace/functions.php:63
+msgid "Archives"
+msgstr "Arhivele"
+
+#: ../monospace/functions.php:78
+#, php-format
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: ../monospace/functions.php:109
+msgid "Share on"
+msgstr "Partajaţi pe"
+
+#: ../monospace/functions.php:202
+msgid "Related Posts"
+msgstr "Legate de posturi"
+
+#: ../monospace/index.php:7
+msgid "Untitled"
+msgstr "Fără titlu"
+
+#: ../monospace/comments.php:24
+msgid "Comments closed"
+msgstr "Comments închis"
+
+#: ../monospace/comments.php:55
+msgid "Name"
+msgstr "Nume"
+
+#: ../monospace/comments.php:57
+msgid "Email"
+msgstr "E-mail"
+
+#: ../monospace/comments.php:59
+msgid "Website"
+msgstr "Site-ul Web"
+
+#: ../monospace/footer.php:20
+msgid "by"
+msgstr "de"
+
