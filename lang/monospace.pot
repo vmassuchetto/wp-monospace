@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Monospace\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-21 13:36-0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Vinicius Massuchetto <viniciusmassuchetto@gmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../monospace/archive.php:10
+#: ../monospace/index.php:16
+msgid "Edit"
+msgstr ""
+
+#: ../monospace/functions.php:13
+#: ../monospace/functions.php:14
+msgid "Posts Feed"
+msgstr ""
+
+#: ../monospace/functions.php:15
+msgid "Comments Feed"
+msgstr ""
+
+#: ../monospace/functions.php:22
+msgid "Sidebar"
+msgstr ""
+
+#: ../monospace/functions.php:28
+msgid "Footer"
+msgstr ""
+
+#: ../monospace/functions.php:45
+msgid "Written by"
+msgstr ""
+
+#: ../monospace/functions.php:45
+msgid "on"
+msgstr ""
+
+#: ../monospace/functions.php:47
+msgid "Categories"
+msgstr ""
+
+#: ../monospace/functions.php:48
+msgid "Tags: "
+msgstr ""
+
+#: ../monospace/functions.php:59
+msgid "Category"
+msgstr ""
+
+#: ../monospace/functions.php:61
+msgid "Tag"
+msgstr ""
+
+#: ../monospace/functions.php:63
+msgid "Archives"
+msgstr ""
+
+#: ../monospace/functions.php:78
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../monospace/functions.php:109
+msgid "Share on"
+msgstr ""
+
+#: ../monospace/functions.php:202
+msgid "Related Posts"
+msgstr ""
+
+#: ../monospace/index.php:7
+msgid "Untitled"
+msgstr ""
+
+#: ../monospace/comments.php:24
+msgid "Comments closed"
+msgstr ""
+
+#: ../monospace/comments.php:55
+msgid "Name"
+msgstr ""
+
+#: ../monospace/comments.php:57
+msgid "Email"
+msgstr ""
+
+#: ../monospace/comments.php:59
+msgid "Website"
+msgstr ""
+
+#: ../monospace/footer.php:20
+msgid "by"
+msgstr ""
+

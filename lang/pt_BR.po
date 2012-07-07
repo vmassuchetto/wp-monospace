@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Monospace\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-21 13:36-0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Vinicius Massuchetto <viniciusmassuchetto@gmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../monospace/archive.php:10
+#: ../monospace/index.php:16
+msgid "Edit"
+msgstr "Editar"
+
+#: ../monospace/functions.php:13
+#: ../monospace/functions.php:14
+msgid "Posts Feed"
+msgstr "Feed de Posts"
+
+#: ../monospace/functions.php:15
+msgid "Comments Feed"
+msgstr "Feed de Comentários"
+
+#: ../monospace/functions.php:22
+msgid "Sidebar"
+msgstr "Barra Lateral"
+
+#: ../monospace/functions.php:28
+msgid "Footer"
+msgstr "Rodapé"
+
+#: ../monospace/functions.php:45
+msgid "Written by"
+msgstr "Escrito por"
+
+#: ../monospace/functions.php:45
+msgid "on"
+msgstr "em"
+
+#: ../monospace/functions.php:47
+msgid "Categories"
+msgstr "Categorias"
+
+#: ../monospace/functions.php:48
+msgid "Tags: "
+msgstr "Tags:"
+
+#: ../monospace/functions.php:59
+msgid "Category"
+msgstr "Categoria"
+
+#: ../monospace/functions.php:61
+msgid "Tag"
+msgstr "Tag"
+
+#: ../monospace/functions.php:63
+msgid "Archives"
+msgstr "Arquivos"
+
+#: ../monospace/functions.php:78
+#, php-format
+msgid "Page %s"
+msgstr "Página %s"
+
+#: ../monospace/functions.php:109
+msgid "Share on"
+msgstr "Compartilhe no"
+
+#: ../monospace/functions.php:202
+msgid "Related Posts"
+msgstr "Posts Relacionados"
+
+#: ../monospace/index.php:7
+msgid "Untitled"
+msgstr "Sem Título"
+
+#: ../monospace/comments.php:24
+msgid "Comments closed"
+msgstr "Comentários fechados"
+
+#: ../monospace/comments.php:55
+msgid "Name"
+msgstr "Nome"
+
+#: ../monospace/comments.php:57
+msgid "Email"
+msgstr "E-mail"
+
+#: ../monospace/comments.php:59
+msgid "Website"
+msgstr "Sítio na Web"
+
+#: ../monospace/footer.php:20
+msgid "by"
+msgstr "por"
+
