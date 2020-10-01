@@ -35,21 +35,23 @@
     function monospace_meta () {
         global $post;
         ?>
-        <div class="meta">
+        <?php if ($post->post_type == 'post'): ?>
+            <div class="meta">
 
-            <?php if (function_exists('the_post_thumbnail')) : ?>
-                <?php if (has_post_thumbnail()) : ?>
-                    <span class="thumbnail"><?php the_post_thumbnail(); ?></span>
+                <?php if (function_exists('the_post_thumbnail')) : ?>
+                    <?php if (has_post_thumbnail()) : ?>
+                        <span class="thumbnail"><?php the_post_thumbnail(); ?></span>
+                    <?php endif; ?>
                 <?php endif; ?>
-            <?php endif; ?>
 
-            <span class="authordate">
-                <?php _e ('Written by', 'monospace'); ?>&nbsp;<b><?php the_author(); ?></b>&nbsp;<?php _e('on', 'monospace'); ?>&nbsp;<?php the_date(); ?>
-            </span>
-            <span class="categories"><?php _e('Categories', 'monospace'); ?>:&nbsp;<?php the_category(', '); ?></span>
-            <span class="tags"><?php the_tags(__('Tags:&nbsp;', 'monospace'), ', '); ?></span>
-            <?php edit_post_link (__('Edit', 'monospace')); ?>
-        </div>
+                <span class="authordate">
+                    <?php _e ('Written by', 'monospace'); ?>&nbsp;<b><?php the_author(); ?></b>&nbsp;<?php _e('on', 'monospace'); ?>&nbsp;<?php the_date(); ?>
+                </span>
+                <span class="categories"><?php _e('Categories', 'monospace'); ?>:&nbsp;<?php the_category(', '); ?></span>
+                <span class="tags"><?php the_tags(__('Tags:&nbsp;', 'monospace'), ', '); ?></span>
+                <?php edit_post_link (__('Edit', 'monospace')); ?>
+            </div>
+        <?php endif; ?>
         <?php
     }
 
